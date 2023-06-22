@@ -24,12 +24,25 @@
 
  <img src="./src/get-data.PNG" alt="Logo" width="600" height="400">
 <img src="./src/data-processing.PNG" alt="Logo" width="600" height="400">
-### Construido
+
+### Construido con
 
 * Angular.io
+* Powerbi.microsoft.com
 
 
 ### Prerrequisitos
+
+Clona el repositorio
+
+Git clone 
+
+```sh
+  git clone https://github.com/devyeisont/covid-app.git
+  ```
+  ```sh
+    cd covid-app
+  ```
 
 Instalar dependencias
 * npm
@@ -53,13 +66,10 @@ Instalar dependencias
 <!-- CONTRIBUTING -->
 ## Contribucion
 
-Contributions are what make the open source community such an amazing place to learn, inspire, and create. Any contributions you make are **greatly appreciated**.
+1. Hazle fork al proyecto
+2. Crea tu branch Feature (`git checkout -b feature/AmazingFeature`)
+3. Hazle commit a tus cambios (`git commit -m 'Add some AmazingFeature'`)
+4. Push a la rama (`git push origin feature/AmazingFeature`)
+5. Abre un pull request
 
-If you have a suggestion that would make this better, please fork the repo and create a pull request. You can also simply open an issue with the tag "enhancement".
-Don't forget to give the project a star! Thanks again!
-
-1. Fork the Project
-2. Create your Feature Branch (`git checkout -b feature/AmazingFeature`)
-3. Commit your Changes (`git commit -m 'Add some AmazingFeature'`)
-4. Push to the Branch (`git push origin feature/AmazingFeature`)
-5. Open a Pull Request
+By @devyeisont
